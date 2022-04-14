@@ -21,7 +21,7 @@
     height: 45px;
     background-color: hsla(208, 14%, 23%);
     position: fixed;
-    left: 246px;
+    left: 146px;
     top: 11px;
     border-radius: 100% 10% 5% 0;
     border-top: 2px solid #000;
@@ -38,7 +38,7 @@
     height: 30px;
     background-color: rgba(65, 53, 70);
     position: fixed;
-    left: 290px;
+    left: 190px;
     top: 19px;
     border-radius: 100% 0 10% 0;
     border: 1px solid #000;
@@ -52,7 +52,7 @@
     height: 30px;
     background-color: hsla(282, 14%, 24%);
     position: fixed;
-    left: 441px;
+    left: 341px;
     top: 25px;
     border-radius: 0 100% 0 10%;
     border: 1px solid #000;
@@ -66,7 +66,7 @@
     height: 24px;
     background: linear-gradient(90deg, rgba(24,73,93,1) 0%, rgba(8,125,161,1) 100%, rgba(28,88,112,1) 100%);
     position: fixed;
-    left: 530px;
+    left: 430px;
     top: 40px;
     border-radius: 30% 100% 20% 50%;
     border: 1px solid #000;
@@ -82,7 +82,7 @@
     width: 121px;
     height: 18px;
     background-color: #0580a5;
-    left: 580px;
+    left: 480px;
     top: 73px;
     z-index: 4;
 
@@ -96,7 +96,7 @@
     width: 165px;
     height: 20px;
     background-color: #0580a5;
-    left: 437px;
+    left: 337px;
     top: 65px;
     z-index: 3;
 
@@ -109,7 +109,7 @@
     width: 180px;
     height: 22px;
     background-color: #0580a5;
-    left: 272px;
+    left: 172px;
     top: 56px;
     z-index: 2;
 
@@ -123,7 +123,7 @@
     width: 30px;
     height: 8px;
     background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(61,59,69,1) 100%);
-    left: 455px;
+    left: 355px;
     top: 76px;
     z-index: 7;
 
@@ -139,7 +139,7 @@
     height: 30px;
     background: rgb(3,93,128);
     background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
-    left: 581px;
+    left: 481px;
     top: 88px;
     z-index: 6;
 
@@ -153,7 +153,7 @@
     height: 30px;
     background: rgb(3,93,128);
     background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
-    left: 442px;
+    left: 342px;
     top: 82px;
     z-index: 5;
 
@@ -167,7 +167,7 @@
     height: 34px;
     background: rgb(3,93,128);
     background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
-    left: 258px;
+    left: 158px;
     top: 79px;
     z-index: 4;
 
@@ -182,7 +182,7 @@
     width: 60px;
     height: 15px;
     background: rgb(255, 255, 255);
-    left: 648px;
+    left: 548px;
     top: 91px;
     z-index: 7;
 
@@ -195,7 +195,7 @@
     width: 20px;
     height: 12px;
     background: rgb(218, 126, 6);
-    left: 648px;
+    left: 548px;
     top: 88px;
     z-index: 7;
 
@@ -208,7 +208,7 @@
     width: 60px;
     height: 6px;
     background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(61,59,69,1) 100%);
-    left: 567px;
+    left: 467px;
     top: 84px;
     z-index: 8;
 
@@ -223,7 +223,7 @@
     width: 40px;
     height: 14px;
     background: red;
-    left: 258px;
+    left: 158px;
     top: 76px;
     z-index: 7;
 
@@ -236,7 +236,7 @@
     width: 15px;
     height: 7px;
     background: rgb(255, 255, 255);
-    left: 258px;
+    left: 158px;
     top: 85px;
     z-index: 7;
 
@@ -251,7 +251,7 @@
     width: 135px;
     height: 42px;
     background-color: #035D80;
-    left: 581px;
+    left: 481px;
     top: 114px;
     z-index: 6;
 
@@ -264,7 +264,7 @@
     width: 138px;
     height: 43px;
     background-color: #035D80;
-    left: 452px;
+    left: 352px;
     top: 111px;
     z-index: 5;
 
@@ -277,7 +277,7 @@
     width: 200px;
     height: 43px;
     background-color: #035D80;
-    left: 258px;
+    left: 158px;
     top: 109px;
     z-index: 4;
 
@@ -289,7 +289,7 @@
     width: 16px;
     height: 20px;
     background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(61,59,69,1) 100%);
-    left: 698px;
+    left: 598px;
     top: 122px;
     z-index: 8;
 
@@ -303,7 +303,7 @@
     position: fixed;
     overflow: hidden;
     top: 94px;
-    left: 581px;
+    left: 481px;
     z-index: 6;
 }
 
@@ -342,7 +342,7 @@ background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
     position: fixed;
     overflow: hidden;
     top: 92px;
-    left: 275px;
+    left: 175px;
     z-index: 7;
 }
 
@@ -379,7 +379,7 @@ background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
     width: 30px;
     height: 15px;
     background-color: hsla(213, 18%, 22%);
-    left: 685px;
+    left: 585px;
     top: 149px;
     z-index: 9;
 
@@ -391,7 +391,7 @@ background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
     width: 217px;
     height: 13px;
     background-color: hsla(213, 18%, 22%);
-    left: 379px;
+    left: 279px;
     top: 150px;
     z-index: 9;
 
@@ -404,7 +404,7 @@ background: linear-gradient(0deg, rgba(3,93,128,1) 0%, rgba(5,128,165,1) 100%);
     width: 30px;
     height: 19px;
     background-color: hsla(213, 18%, 22%);
-    left: 259px;
+    left: 159px;
     top: 143px;
     z-index: 8;
 
@@ -424,7 +424,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 118px;
-    left: 294px;
+    left: 194px;
     border-radius: 50%;
 }
 .wheel-rear__middle {
@@ -434,7 +434,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 123px;
-    left: 299px;
+    left: 199px;
     border-radius: 50%;
 }
 .wheel-rear__inside {
@@ -444,7 +444,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 130px;
-    left: 305.5px;
+    left: 205.5px;
     border-radius: 50%;
 }
 .wheel-rear__disk {
@@ -455,7 +455,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 135px;
-    left: 311px;
+    left: 211px;
     border-radius: 50%;
 }
 
@@ -470,7 +470,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 118px;
-    left: 600px;
+    left: 500px;
     border-radius: 50%;
 }
 .wheel-front__middle {
@@ -480,7 +480,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 123px;
-    left: 605px;
+    left: 505px;
     border-radius: 50%;
 }
 .wheel-front__inside {
@@ -490,7 +490,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 130px;
-    left: 612px;
+    left: 512px;
     border-radius: 50%;
 }
 .wheel-front__disk {
@@ -501,7 +501,7 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     position: fixed;
     z-index: 10;
     top: 135px;
-    left: 617px;
+    left: 517px;
     border-radius: 50%;
 }
 .shadow-car {
@@ -511,6 +511,6 @@ background: radial-gradient(circle, rgba(64,56,65,1) 0%, rgba(37,31,40,1) 100%);
     border-radius: 80%;
     position: fixed;
     top: 182px;
-    left: 245px;
+    left: 145px;
     box-shadow: inset #000 11px 1px 30px;
 }
